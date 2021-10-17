@@ -1,7 +1,9 @@
-# project-X
-Project is an IDO platform built for project owner to list their decentralize token on the DEX.
+# Portico Finance
+Project is a Multi Chain DEX to build on RSK, Ethereum and Bitcoin
 
 The Project consist 3 major Part.
 1. Decentralize Exchange
-2. DAO/voting
+2. Farming
 3. Project Listing/Time Lock
+4. Staking
+5. Multi Chain
